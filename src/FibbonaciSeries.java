@@ -15,6 +15,7 @@ public class FibbonaciSeries {
 			a=b;
 			b=sum;
 		}
+//happy today
 	}
 
 }
